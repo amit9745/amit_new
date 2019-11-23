@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2208-479F
+
+ Directory of C:\Users\ak161\Desktop\amit
+
+23-11-2019  23:59    <DIR>          .
+23-11-2019  23:59    <DIR>          ..
+23-11-2019  23:59                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  149,639,020,544 bytes free
